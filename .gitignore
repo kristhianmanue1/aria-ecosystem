@@ -1,0 +1,13 @@
+# Default-deny for this small public documentary repository.
+# Review this list deliberately before adding another public file.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/AGENTS.md
+!/docs/
+/docs/*
+!/docs/boundaries.md
+!/docs/repository-decision.md
+!/docs/roadmap.md
+!/docs/publication.md
